@@ -1,6 +1,6 @@
 ## Описание приложения
 
-[En](README.md)
+[english version](README.md)
 
 Это приложение со следующими функционалом:
 
@@ -25,7 +25,7 @@
 
 6. Поддержка альбомного (landscape) режима
 
-7. Для жестов pinch + pan при просмотре точек на графике используются данные, получаемые с UIScrollView [через UIViewRepresentable](DisplayPointsView/HorizontalPanPinch.swift). Однако, отрисовка графика выполняется через SwiftUI.
+7. Для жестов pinch + pan при просмотре точек на графике используются данные, получаемые с UIScrollView [через UIViewRepresentable](Path/DisplayPointsView/HorizontalPanPinch.swift). Однако, отрисовка графика выполняется через SwiftUI.
 
 
 ## Граф связанности компонент

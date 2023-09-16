@@ -1,6 +1,6 @@
 ## Application Description
 
-[Rus](README.ru.md)
+[rus version](README.ru.md)
 
 This application has the following functional capabilities:
 
@@ -25,7 +25,7 @@ This application has the following functional capabilities:
 
 6. Support for landscape mode.
 
-7. For pinch + pan gestures (when viewing points on the graph), input data obtained from UIScrollView is [used through UIViewRepresentable](DisplayPointsView/HorizontalPanPinch.swift). However, the drawing is implemented through SwiftUI.
+7. For pinch + pan gestures (when viewing points on the graph), input data obtained from UIScrollView is [used through UIViewRepresentable](Path/DisplayPointsView/HorizontalPanPinch.swift). However, the drawing is implemented through SwiftUI.
 
 
 ## Component Graph
