@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  Path
+
+  Created by Andrey Yo on 03.09.2023.
+  
+*/
+
+incorrect_points_count_input = "Некорректный ввод";
+points_count_input = "Поехали";
+enter_points_count = "Введите количество точек";
+default_error_message = "Ошибка";
+timeout_error_message = "Превышено время ожидания запроса";
+no_connection_error_message = "Отсутствует интернет-соединение";
+cancelled_response_error_message = "Запрос отменен";
+internal_error_message = "Внутренняя ошибка";

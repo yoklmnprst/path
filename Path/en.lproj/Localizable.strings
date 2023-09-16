@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  Path
+
+  Created by Andrey Yo on 03.09.2023.
+  
+*/
+
+incorrect_points_count_input = "Incorrect input";
+points_count_input = "Let's go!";
+enter_points_count = "Enter points count";
+default_error_message = "Error";
+timeout_error_message = "Request timed out";
+no_connection_error_message = "No internet connection";
+cancelled_response_error_message = "Request cancelled";
+internal_error_message = "Internal error";
