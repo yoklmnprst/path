@@ -10,7 +10,7 @@ This application has the following functional capabilities:
 
 > Note: The network part has been mocked to allow the application to run without a configured backend, but the network stack is fully functional.
 
-[video demonstration](https://github.com/yoklmnprst/path/assets/52455150/c891a85f-5dd7-4d8d-8251-9b5e07b063e5)
+[video demonstration](https://github.com/yoklmnprst/path/assets/52455150/86ae2b82-91a4-4535-81b0-3f350ed37930)
 
 
 ## Features and Supported Features
