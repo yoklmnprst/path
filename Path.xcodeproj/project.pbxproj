@@ -32,6 +32,9 @@
 		C55DB3E62A8399AB0058B27D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C55DB3E52A8399AB0058B27D /* Preview Assets.xcassets */; };
 		C55DB4092A83B8B60058B27D /* PointService.swift in Sources */ = {isa = PBXBuildFile; fileRef = C55DB4082A83B8B50058B27D /* PointService.swift */; };
 		C569B33C2AA601980029E9A5 /* HorizontalPanPinch.swift in Sources */ = {isa = PBXBuildFile; fileRef = C569B33B2AA601980029E9A5 /* HorizontalPanPinch.swift */; };
+		C5C443F32AB5E54F00EA20FE /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = C5C443F02AB5E54F00EA20FE /* LICENSE */; };
+		C5C443F42AB5E54F00EA20FE /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C5C443F12AB5E54F00EA20FE /* README.md */; };
+		C5C443F52AB5E54F00EA20FE /* README.ru.md in Resources */ = {isa = PBXBuildFile; fileRef = C5C443F22AB5E54F00EA20FE /* README.ru.md */; };
 		C5C8FF572AB1E2BA00BE964A /* XYGraphGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5C8FF562AB1E2BA00BE964A /* XYGraphGrid.swift */; };
 		C5C9D17C2AB42288009A6C86 /* Style.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5C9D17B2AB42288009A6C86 /* Style.swift */; };
 		C5E15F112A88E0D200E2A248 /* DisplayPointsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5E15F102A88E0D200E2A248 /* DisplayPointsView.swift */; };
@@ -40,7 +43,6 @@
 		C5E15F172A88E2A800E2A248 /* LoadingButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5E15F162A88E2A800E2A248 /* LoadingButton.swift */; };
 		C5E327DE2AA6ECE300417FDF /* XGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5E327DD2AA6ECE300417FDF /* XGrid.swift */; };
 		C5E333BF2A9DCF3000D67CF9 /* SidePullButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5E333BE2A9DCF3000D67CF9 /* SidePullButton.swift */; };
-		C5E333C12A9DDE1500D67CF9 /* README.ru.md in Resources */ = {isa = PBXBuildFile; fileRef = C5E333C02A9DDE1500D67CF9 /* README.ru.md */; };
 		C5E333C32A9DE1D400D67CF9 /* ClosedRangeExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5E333C22A9DE1D400D67CF9 /* ClosedRangeExt.swift */; };
 		C5E333C52A9DE22500D67CF9 /* GraphPoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5E333C42A9DE22500D67CF9 /* GraphPoints.swift */; };
 		C5E333C72A9DE2B600D67CF9 /* CoordinatesCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5E333C62A9DE2B600D67CF9 /* CoordinatesCell.swift */; };
@@ -92,7 +94,9 @@
 		C55DB3EB2A8399AC0058B27D /* PathTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PathTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C55DB4082A83B8B50058B27D /* PointService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PointService.swift; sourceTree = "<group>"; };
 		C569B33B2AA601980029E9A5 /* HorizontalPanPinch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorizontalPanPinch.swift; sourceTree = "<group>"; };
-		C5C4D6AD2AB49CF400D066D2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C5C443F02AB5E54F00EA20FE /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
+		C5C443F12AB5E54F00EA20FE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
+		C5C443F22AB5E54F00EA20FE /* README.ru.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.ru.md; sourceTree = SOURCE_ROOT; };
 		C5C8FF562AB1E2BA00BE964A /* XYGraphGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XYGraphGrid.swift; sourceTree = "<group>"; };
 		C5C9D17B2AB42288009A6C86 /* Style.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Style.swift; sourceTree = "<group>"; };
 		C5E15F102A88E0D200E2A248 /* DisplayPointsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisplayPointsView.swift; sourceTree = "<group>"; };
@@ -101,7 +105,6 @@
 		C5E15F162A88E2A800E2A248 /* LoadingButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingButton.swift; sourceTree = "<group>"; };
 		C5E327DD2AA6ECE300417FDF /* XGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XGrid.swift; sourceTree = "<group>"; };
 		C5E333BE2A9DCF3000D67CF9 /* SidePullButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SidePullButton.swift; sourceTree = "<group>"; };
-		C5E333C02A9DDE1500D67CF9 /* README.ru.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.ru.md; sourceTree = "<group>"; };
 		C5E333C22A9DE1D400D67CF9 /* ClosedRangeExt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClosedRangeExt.swift; sourceTree = "<group>"; };
 		C5E333C42A9DE22500D67CF9 /* GraphPoints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GraphPoints.swift; sourceTree = "<group>"; };
 		C5E333C62A9DE2B600D67CF9 /* CoordinatesCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoordinatesCell.swift; sourceTree = "<group>"; };
@@ -152,8 +155,9 @@
 		C55DB3DD2A8399A90058B27D /* Path */ = {
 			isa = PBXGroup;
 			children = (
-				C5C4D6AD2AB49CF400D066D2 /* README.md */,
-				C5E333C02A9DDE1500D67CF9 /* README.ru.md */,
+				C5C443F02AB5E54F00EA20FE /* LICENSE */,
+				C5C443F12AB5E54F00EA20FE /* README.md */,
+				C5C443F22AB5E54F00EA20FE /* README.ru.md */,
 				C55DB3DE2A8399A90058B27D /* PathApp.swift */,
 				C50DCC272AA1D7BF00F344FA /* AppBuilder.swift */,
 				C5C9D17B2AB42288009A6C86 /* Style.swift */,
@@ -341,7 +345,9 @@
 			files = (
 				C55DB3E62A8399AB0058B27D /* Preview Assets.xcassets in Resources */,
 				C523B3B02A985C7200FDB7A1 /* Localizable.strings in Resources */,
-				C5E333C12A9DDE1500D67CF9 /* README.ru.md in Resources */,
+				C5C443F42AB5E54F00EA20FE /* README.md in Resources */,
+				C5C443F32AB5E54F00EA20FE /* LICENSE in Resources */,
+				C5C443F52AB5E54F00EA20FE /* README.ru.md in Resources */,
 				C55DB3E32A8399AB0058B27D /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
