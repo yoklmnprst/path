@@ -8,7 +8,9 @@ This application has the following functional capabilities:
 
 2. **Loading and Displaying Points**. After entering the points, data is loaded over the network, and then the points are displayed on the next screen.
 
-- Note: The network part has been mocked to allow the application to run without a configured backend, but the network stack is fully functional.
+> Note: The network part has been mocked to allow the application to run without a configured backend, but the network stack is fully functional.
+
+[video demonstration](https://github.com/yoklmnprst/path/assets/52455150/c891a85f-5dd7-4d8d-8251-9b5e07b063e5)
 
 
 ## Features and Supported Features
